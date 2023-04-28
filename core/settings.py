@@ -151,7 +151,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'#oke
 EMAIL_HOST = 'smtp.gmail.com'#oke
 
 EMAIL_PORT = '587'#oke
-EMAIL_HOST_USER = 'mossaddak15-2413@diu.edu.bd'#leave here your genuine email
+EMAIL_HOST_USER = ''#leave here your genuine email
 EMAIL_HOST_PASSWORD = 'yvjhqdlcujftbczh'#leave here your genuine password of your email. keep it in mind, as the password should in encrypted condition 
 EMAIL_USE_TLS = True#oke
 
